@@ -54,25 +54,3 @@
 
 ## [Section I Want] 
 
-<p> User stories for your App)
-
-## [question-16](16. Provide Wireframes for your App)
-
-## [question-17](17. Describe the way tasks are allocated and tracked in your project)
-
-## [question-18](18. Discuss how Agile methodology is being implemented in your project)
-
-## [question-19](19. Provide an overview and description of your Source control process)
-
-## [question-20](20. Provide an overview and description of your Testing process.)
-
-## [question-21]([21. Discuss and analyse requirements related to information system security)
-
-## [question-22](22. Discuss methods you will use to protect information and data.)
-
-## [question-23](23. Research what your legal obligations are in relation to handling user data.)
-
-
-
-# [Heading Link](#section-i-
-</p>
