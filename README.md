@@ -2,7 +2,7 @@
 
 ## short answer questions
 
- [question-1](#1. What is the need (i.e. challenge) that you will be addressing in your project)
+ ## [question-1](#1. What is the need (i.e. challenge) that you will be addressing in your project)
 
  [question-2](2. Identify the problem you’re trying to solve by building this particular marketplace App? Why is it a problem that needs solving?)
 
@@ -54,5 +54,5 @@
 
 ## [Section I Want] 
 
-## [1. What is the need (i.e. challenge) that you will be addressing in your project]
+### 1. What is the need (i.e. challenge) that you will be addressing in your project
 
