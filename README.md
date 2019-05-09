@@ -1,8 +1,11 @@
 ## Rails A2 - two sided marketplace
 ### short answer questions 
 [1. What is the need (i.e. challenge) that you will be addressing in your project?](#question-1)
+
 2. Identify the problem you’re trying to solve by building this particular marketplace App? Why is it a problem that needs solving?
+
 3. Describe the project will you be conducting and how. your App will address the needs.
+
 4. Describe the network infrastructure the App may be based on.
 5. Identify and describe the software to be used in your App.
 6. Identify the database to be used in your App and provide a justification for your choice.
