@@ -1,50 +1,49 @@
-## Rails A2 - two sided marketplace
-### short answer questions 
-[1. What is the need (i.e. challenge) that you will be addressing in your project?](##question-1)
+#README 
 
-[2. Identify the problem you’re trying to solve by building this particular marketplace App? Why is it a problem that needs solving?](##question-2)
+## short answer questions
 
-[3. Describe the project will you be conducting and how. your App will address the needs.](###question-3)
+[question-](1. What is the need (i.e. challenge) that you will be addressing in your project)
 
-[4. Describe the network infrastructure the App may be based on.](##question-4)
+[question-2](2. Identify the problem you’re trying to solve by building this particular marketplace App? Why is it a problem that needs solving?)
 
-[5. Identify and describe the software to be used in your App.](##question-5)
+[question-3](3. Describe the project will you be conducting and how your App will address the needs.)
 
-[6. Identify the database to be used in your App and provide a justification for your choice.](##question-6)
+[quesdtion-4](4. Describe the network infrastructure the App may be based on.)
 
-[7. Identify and describe the production database setup (i.e. postgres instance).](##question-7)
+[question-5](5. Identify and describe the software to be used in your App.)
 
-[8. Describe the architecture of your App.](##question-8)
+[question-6]6. Identify the database to be used in your App and provide a justification for your choice.
 
-[9. Explain the different high-level components (abstractions) in your App.](##question-9)
+[question-7]7. Identify and describe the production database setup (i.e. postgres instance).
 
-[10. Detail any third party services that your App will use.](##question-10)
+[question-8]8. Describe the architecture of your App.
 
-[11. Describe (in general terms) the data structure of marketplace apps that are similar to your own (e.g. eBay, Airbnb).](##question-11)
+[question-9]9. Explain the different high-level components (abstractions) in your App.
 
-[12. Discuss the database relations to be implemented.](##question-12)
+[question-](10. Detail any third party services that your App will use)
 
-[13. Describe your project’s models in terms of the relationships (active record associations) they have with each other.](##question-13)
+[question-11](11. Describe (in general terms) the data structure of marketplace apps that are similar to your own (e.g. eBay,Airbnb).
 
-[14. Provide your database schema design.](##question-14)
+[question-12](12. Discuss the database relations to be implemented)
 
-[15. Provide User stories for your App.](##question-15)
+[question-13](13. Describe your project’s models in terms of the relationships (active record associations) they have with each)other.
 
-[16. Provide Wireframes for your App.](##question-16)
+[question-14](14. Provide your database schema design)
 
-[17. Describe the way tasks are allocated and tracked in your project.](##question-17)
+[question-15](15. Provide User stories for your App)
 
-[18. Discuss how Agile methodology is being implemented in your project.](##question-18)
+[question-16](16. Provide Wireframes for your App)
 
-[19. Provide an overview and description of your Source control process.](##question-19)
+[question-17](17. Describe the way tasks are allocated and tracked in your project)
 
-[20. Provide an overview and description of your Testing process.](##question-20)
+[question-18](18. Discuss how Agile methodology is being implemented in your project)
 
-[21. Discuss and analyse requirements related to information system security.](##question-21)
+[question-19](19. Provide an overview and description of your Source control process)
 
-[22. Discuss methods you will use to protect information and data.](##question-22)
+[question-20](20. Provide an overview and description of your Testing process.)
 
-[23. Research what your legal obligations are in relation to handling user data.](##question-23)
+[question-21]([21. Discuss and analyse requirements related to information system security)
 
-## [question-1]
+[question-22](22. Discuss methods you will use to protect information and data.)
 
+[question-23](23. Research what your legal obligations are in relation to handling user data.)
